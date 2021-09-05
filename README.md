@@ -1,2 +1,2 @@
-# HTML-CSS-JAVASCRIPT
+# GAMING WEBSITE - HTML CSS - JS
 website for gaming
