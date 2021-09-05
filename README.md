@@ -1,2 +1,2 @@
-# Gaming-Website
-Gaming Webite
+# HTML-CSS-JAVASCRIPT
+website for gaming
