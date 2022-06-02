@@ -1,5 +1,0 @@
---to run git code---
-git checkout -b refresh_stats_report
-git add <file1> <file2> ....
-git commit -m "msg for what this commit is"
-git push origin  refresh_stats_report 
